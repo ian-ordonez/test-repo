@@ -1,1 +1,6 @@
 Test file for Git/GitHub
+
+Ian Rafael Ordonez
+2012-13177
+BS Computer Engineering
+University of the Philippines, Diliman
